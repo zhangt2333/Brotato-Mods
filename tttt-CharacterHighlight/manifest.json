@@ -1,0 +1,18 @@
+{
+	"name": "CharacterHighlight",
+	"namespace": "tttt",
+	"version_number": "1.0.0",
+	"description": "Improves character visibility with independent circle and outline highlights. Perfect for multiplayer and crowded combat.",
+	"website_url": "",
+	"dependencies": [],
+	"extra": {
+		"godot": {
+			"optional_dependencies": ["Oudstand-ModOptions"],
+			"incompatibilities": [],
+			"authors": ["tttt"],
+			"tags": ["highlight", "visibility", "multiplayer", "hud", "coop"],
+			"compatible_mod_loader_version": ["6.2.0"],
+			"compatible_game_version": ["1.1.12.0"]
+		}
+	}
+}

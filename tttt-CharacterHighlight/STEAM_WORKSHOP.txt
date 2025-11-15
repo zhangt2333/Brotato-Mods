@@ -1,0 +1,75 @@
+[h1]Character Highlight Mod[/h1]
+Enhance your character visibility in Brotato with two powerful, independent highlight features. Perfect for multiplayer games and crowded combat situations!
+
+[h2]✨ Features[/h2]
+
+[b]Two Independent Highlight Systems:[/b]
+[list]
+[*][b]Circle Highlight[/b]: Bright ground glow that's always visible above enemies
+[*][b]Outline Highlight[/b]: Edge glow around your character
+[*]Use either feature alone or combine both for maximum visibility!
+[/list]
+
+[b]Fully Configurable:[/b]
+[list]
+[*]Independent toggles for each feature
+[*]Adjustable size/width and brightness
+[*]Real-time configuration changes
+[/list]
+
+[b]Multiplayer Support[/b]
+In coop mode, each player gets their own color. Both circle and outline will match your player color, making it easy to identify your character in team battles!
+
+[h2]📦 Installation[/h2]
+[olist]
+[*]Subscribe to this mod
+[*]Launch Brotato
+[*]The mod works immediately!
+[/olist]
+
+[h2]⚙️ Configuration[/h2]
+Install [url=https://steamcommunity.com/workshop/filedetails/?id=3598984651]Oudstand-ModOptions[/url] to customize settings.
+
+Go to [b]Options → Mods → Character Highlight[/b]:
+
+[b]Circle Highlight:[/b]
+[list]
+[*]Enable/disable toggle (default: ON)
+[*]Circle Size: 1.0-3.0x (default: 1.5x)
+[*]Circle Brightness: 0.5-2.0x (default: 1.0x)
+[/list]
+[b]Outline Highlight:[/b]
+[list]
+[*]Enable/disable toggle (default: ON)
+[*]Outline Highlight Width: 1.0-3.0 (default: 1.5)
+[*]Outline Highlight Brightness: 0.5-2.0x (default: 1.0x)
+[/list]
+Without ModOptions, the mod uses default settings.
+
+[h2]📋 Requirements[/h2]
+[list]
+[*]Brotato v1.1.12.0 or compatible
+[*]ModLoader v6.2.0 or compatible
+[/list]
+
+[h2]🤝 Compatibility[/h2]
+This mod is compatible with most other Brotato mods. It doesn't modify vanilla highlight behavior, so you can still use the game's built-in character highlighting alongside this mod.
+
+[h2]📝 Version History[/h2]
+[b]v1.0.0[/b]
+[list]
+[*]Initial release
+[*]Added Circle Highlight and Outline Highlight
+[*]Multi-player support
+[/list]
+
+[h2]💬 Feedback & Support[/h2]
+Found a bug or have a suggestion? Please leave a comment below or report issues in [url=https://github.com/zhangt2333/Brotato-Mods]GitHub repository[/url]!
+
+[h2]Credits[/h2]
+[list]
+[*]Author: tttt
+[*]Mod: Oudstand-ModOptions
+[/list]
+
+Enjoy better visibility in your Brotato runs! 🎯
