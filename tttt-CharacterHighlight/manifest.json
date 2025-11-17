@@ -1,7 +1,7 @@
 {
 	"name": "CharacterHighlight",
 	"namespace": "tttt",
-	"version_number": "1.0.0",
+	"version_number": "1.0.1",
 	"description": "Improves character visibility with independent circle and outline highlights. Perfect for multiplayer and crowded combat.",
 	"website_url": "",
 	"dependencies": [],

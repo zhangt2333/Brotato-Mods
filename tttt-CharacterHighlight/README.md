@@ -85,6 +85,9 @@ For bugs or feature requests, please create an issue on the project repository.
 
 ## Changelog
 
+### v1.0.1
+- Fixed: Hiker character's HP and material gain from movement no longer double-procs
+
 ### v1.0.0
 - Initial release
 - Added Circle Highlight and Outline Highlight

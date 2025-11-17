@@ -31,6 +31,16 @@ func _ready():
 	call_deferred("_setup_mod_options_listener")
 
 
+func init_effect_behaviors() -> void:
+	# Check if already initialized to prevent double initialization
+	if effect_behaviors.get_child_count() > 0:
+		ModLoaderLog.warning("Effect behaviors already initialized, skipping duplicate init", MOD_NAME)
+		return
+	 
+	# Call parent implementation
+	.init_effect_behaviors()
+
+
 func _initialize_mod_highlight() -> void:
 	_load_mod_options()
 	

@@ -2,7 +2,6 @@
 Enhance your character visibility in Brotato with two powerful, independent highlight features. Perfect for multiplayer games and crowded combat situations!
 
 [h2]✨ Features[/h2]
-
 [b]Two Independent Highlight Systems:[/b]
 [list]
 [*][b]Circle Highlight[/b]: Bright ground glow that's always visible above enemies
@@ -56,6 +55,11 @@ Without ModOptions, the mod uses default settings.
 This mod is compatible with most other Brotato mods. It doesn't modify vanilla highlight behavior, so you can still use the game's built-in character highlighting alongside this mod.
 
 [h2]📝 Version History[/h2]
+[b]v1.0.1[/b] (Latest)
+[list]
+[*]Fixed: Hiker character's HP and material gain from movement no longer double-procs
+[/list]
+
 [b]v1.0.0[/b]
 [list]
 [*]Initial release
